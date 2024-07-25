@@ -1,0 +1,25 @@
+{
+    "484e44ab-adf1-46dd-a93f-38df310233de": {
+        "assetTypeGuid": "01c2c136-57b4-4a69-b2af-3c2ea94c3f49",
+        "path": "Project.nproject",
+        "name": "Road Hog",
+        "thumbnail": "f2f35133-198f-e0a8-1ef9-51bb3792481b",
+        "tags": [
+            "0c26b65a-dcc6-4109-aa99-44ccfc84ba67"
+        ]
+    },
+    "624d1a61-d17c-4958-87e5-92ff4164d199": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "2a2bce0a-6314-481b-a5a0-7d01e1c00b35",
+        "path": "Assets/Road Hog.scene.nasset"
+    },
+    "c1137105-9569-9175-cf29-12ae8deb3163": {
+        "assetTypeGuid": "77b22fc4-d109-4dd3-a922-38388879fc90",
+        "path": "Assets.nassetdb"
+    },
+    "f2f35133-198f-e0a8-1ef9-51bb3792481b": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Thumbnail/Road_Hog_Thumb.tex.nasset"
+    },
+    "guid": "c1137105-9569-9175-cf29-12ae8deb3163"
+}

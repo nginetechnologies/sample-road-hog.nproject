@@ -1,7 +1,7 @@
 {
     "name": "Road Hog",
-    "guid": "",
-    "database_guid": "",
+    "guid": "484e44ab-adf1-46dd-a93f-38df310233de",
+    "database_guid": "c1137105-9569-9175-cf29-12ae8deb3163",
     "version": "1.0.0",
     "engine": "3ff049e0-0880-4898-879d-1ccf5583c9c6",
     "plugins": [
@@ -12,9 +12,9 @@
     "asset_directory": "Assets",
     "binary_directory": "bin",
     "library_directory": "lib",
-    "thumbnail_guid": "",
-    "default_scene": "",
-    "tags": [ "" ],
+    "thumbnail_guid": "f2f35133-198f-e0a8-1ef9-51bb3792481b",
+    "default_scene": "624d1a61-d17c-4958-87e5-92ff4164d199",
+    "tags": [ "0c26b65a-dcc6-4109-aa99-44ccfc84ba67" ],
     "source": "Project.nproject",
 	"settings": {
 		"5ED68A2E-C9AF-454F-AD1E-416044E6498A": {
